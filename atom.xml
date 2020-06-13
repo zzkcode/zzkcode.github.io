@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.zzkcode.top</id>
     <title>ZZKCode</title>
-    <updated>2020-02-03T11:30:55.460Z</updated>
+    <updated>2020-06-13T12:08:20.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.zzkcode.top"/>
     <link rel="self" href="https://blog.zzkcode.top/atom.xml"/>
@@ -14,71 +14,57 @@
     <rights>All rights reserved 2020, ZZKCode</rights>
     <entry>
         <title type="html"><![CDATA[2019-07-11-静夜思？]]></title>
-        <id>https://blog.zzkcode.top/post/2019-07-11-jing-ye-si</id>
-        <link href="https://blog.zzkcode.top/post/2019-07-11-jing-ye-si">
+        <id>https://blog.zzkcode.top/post/2019-07-11-jing-ye-si/</id>
+        <link href="https://blog.zzkcode.top/post/2019-07-11-jing-ye-si/">
         </link>
         <updated>2019-07-11T15:57:30.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[康奈尔笔记法]]></title>
-        <id>https://blog.zzkcode.top/post/cornell-notes</id>
-        <link href="https://blog.zzkcode.top/post/cornell-notes">
+        <id>https://blog.zzkcode.top/post/cornell-notes/</id>
+        <link href="https://blog.zzkcode.top/post/cornell-notes/">
         </link>
         <updated>2019-07-06T14:01:32.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[剑指Offer记录]]></title>
-        <id>https://blog.zzkcode.top/post/2019-05-26-sword-to-offer</id>
-        <link href="https://blog.zzkcode.top/post/2019-05-26-sword-to-offer">
-        </link>
-        <updated>2019-05-26T09:20:27.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019春招实习回顾]]></title>
-        <id>https://blog.zzkcode.top/post/2019-5-6-recall-internship</id>
-        <link href="https://blog.zzkcode.top/post/2019-5-6-recall-internship">
-        </link>
-        <updated>2019-05-06T14:06:24.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2018年总结&2019年展望]]></title>
-        <id>https://blog.zzkcode.top/post/2019-1-1-18-summary-19-prospect</id>
-        <link href="https://blog.zzkcode.top/post/2019-1-1-18-summary-19-prospect">
+        <id>https://blog.zzkcode.top/post/2019-1-1-18-summary-19-prospect/</id>
+        <link href="https://blog.zzkcode.top/post/2019-1-1-18-summary-19-prospect/">
         </link>
         <updated>2019-01-01T09:21:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[18年9月小结]]></title>
-        <id>https://blog.zzkcode.top/post/2018-9-30-18-09-personal-summary</id>
-        <link href="https://blog.zzkcode.top/post/2018-9-30-18-09-personal-summary">
+        <id>https://blog.zzkcode.top/post/2018-9-30-18-09-personal-summary/</id>
+        <link href="https://blog.zzkcode.top/post/2018-9-30-18-09-personal-summary/">
         </link>
         <updated>2018-09-30T13:01:52.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[解决Win10声音突然变大的问题]]></title>
-        <id>https://blog.zzkcode.top/post/2018-9-12-win10-volume-up-problem</id>
-        <link href="https://blog.zzkcode.top/post/2018-9-12-win10-volume-up-problem">
+        <id>https://blog.zzkcode.top/post/2018-9-12-win10-volume-up-problem/</id>
+        <link href="https://blog.zzkcode.top/post/2018-9-12-win10-volume-up-problem/">
         </link>
         <updated>2018-09-12T13:43:06.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[学习清单]]></title>
-        <id>https://blog.zzkcode.top/post/2018-9-7-learning-listing</id>
-        <link href="https://blog.zzkcode.top/post/2018-9-7-learning-listing">
+        <id>https://blog.zzkcode.top/post/2018-9-7-learning-listing/</id>
+        <link href="https://blog.zzkcode.top/post/2018-9-7-learning-listing/">
         </link>
         <updated>2018-09-07T05:22:01.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZZKCode Everyday]]></title>
-        <id>https://blog.zzkcode.top/post/2018-9-2-zzkcode-everyday</id>
-        <link href="https://blog.zzkcode.top/post/2018-9-2-zzkcode-everyday">
+        <id>https://blog.zzkcode.top/post/2018-9-2-zzkcode-everyday/</id>
+        <link href="https://blog.zzkcode.top/post/2018-9-2-zzkcode-everyday/">
         </link>
         <updated>2018-09-02T04:27:22.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的博客]]></title>
-        <id>https://blog.zzkcode.top/post/zzkcode-blog-specification</id>
-        <link href="https://blog.zzkcode.top/post/zzkcode-blog-specification">
+        <id>https://blog.zzkcode.top/post/zzkcode-blog-specification/</id>
+        <link href="https://blog.zzkcode.top/post/zzkcode-blog-specification/">
         </link>
         <updated>2018-09-02T04:27:22.000Z</updated>
     </entry>
